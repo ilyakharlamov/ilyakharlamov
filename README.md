@@ -11,7 +11,7 @@
 
 ## 📫 How to reach me
 
-[![Linkedin: ilyakharlamov](https://img.shields.io/badge/-Kotkoa-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilyakharlamov)](https://www.linkedin.com/in/ilyakharlamov)
+[![Linkedin: ilyakharlamov](https://img.shields.io/badge/-ilyakharlamov-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ilyakharlamov)](https://www.linkedin.com/in/ilyakharlamov)
 [![GitHub ilyakharlamov](https://img.shields.io/github/followers/Kotkoa?label=follow&style=social)](https://github.com/ilyakharlamov)
 
 <!--
